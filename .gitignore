@@ -1,0 +1,20 @@
+# Case study data (course materials — never commit)
+*.csv
+*.xlsx
+*.xls
+
+# Secrets
+.env
+*api_key*
+*credentials*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
